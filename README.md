@@ -13,7 +13,7 @@ I specialize in the messy middle between research and shipping — multi-agent o
 **Stack I reach for**
 Python · LangGraph · FastAPI · React · Node.js · vLLM · Puppeteer · PostgreSQL · Pinecone · AWS
 
-**Certifications:** CKAD · AI Engineer Associate · NED University (3.80 GPA, top 5 of batch)
+**Certifications:** CKAD · AI Engineer Associate · NED University
 
 ---
 
